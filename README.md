@@ -1,6 +1,6 @@
 - 👋 Hi, there!
-- 👀 OPPO R11s!
-- 🌱
+- 👀 Sinmai!
+- 🌱 SBGA~
 - 💞️ I’m looking to collaborate on ...
 - 📫 
 - 😄 Pronouns: ...
