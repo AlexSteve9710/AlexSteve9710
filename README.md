@@ -11,11 +11,8 @@ BiliBili:[space.bilibili.com/650849469](https://space.bilibili.com/650849469)
 # Technologies & Tools
 ![](https://img.shields.io/badge/11-OS?style=flat&logo=windows11&label=Windows&color=%230078D4)
 ![](https://img.shields.io/badge/Arch%20Linux-IDE?style=flat&logo=archlinux&logoColor=ffffff&label=OS&color=%231793D1)
-
-![](https://img.shields.io/badge/IntelliJ%20IDEA-IDE?style=flat&logo=intellijidea&logoColor=ffffff&label=IDE&color=3cc4ff)
 ![](https://img.shields.io/badge/PyCharm-IDE?style=flat&logo=pycharm&logoColor=ffffff&label=IDE&color=ffe108)
 ![](https://img.shields.io/badge/Visual%20Studio%202022-IDE?style=flat&logo=visualstudio&logoColor=ffffff&label=IDE&color=%235C2D91)
-![](https://img.shields.io/badge/Android%20Studio-IDE?style=flat&logo=androidstudio&logoColor=ffffff&label=IDE&color=%233DDC84)
 ![](https://img.shields.io/badge/Visual%20Studio%20Code-Editor?style=flat&logo=visualstudiocode&logoColor=ffffff&label=Editor&color=%23007ACC)
 
 ![](https://img.shields.io/badge/Java-Code?style=flat&logo=openjdk&logoColor=ffffff&label=Code&color=%23F80000)
