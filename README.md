@@ -15,7 +15,7 @@
 </table>
 
 ### Main Devices
-[![iPhone 13](https://img.shields.io/badge/iPhone%2013-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://wikipedia.org/wiki/IPhone_X)
+[![iPhone X](https://img.shields.io/badge/iPhone%2013-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://wikipedia.org/wiki/IPhone_X)
 [![OnePlus 9RT](https://img.shields.io/badge/Pixel%208-000000?style=flat-square&logo=google&logoColor=FFFFFF&labelColor=000000)](https://wikipedia.org/wiki/OnePlus9RT)
 
 
