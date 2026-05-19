@@ -27,9 +27,6 @@ BiliBili:
 # Using OS
 [![My Skills](https://skillicons.dev/icons?i=windows,linux,arch,apple&theme=light)](https://skillicons.dev)
 
-# About Me
-Born in 2009.7.10 | Transfemale🏳‍⚧ | Student | MikuFans |
-
 # View Stats
 <table frame=void>
 <tr>
@@ -39,3 +36,5 @@ Born in 2009.7.10 | Transfemale🏳‍⚧ | Student | MikuFans |
     
 </table>
 
+# About Me
+Born in 2009.7.10 | MtF | Student | MikuFans |
