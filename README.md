@@ -24,6 +24,9 @@ BiliBili:
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,pycharm,idea,&theme=light)](https://skillicons.dev)
 ### And More... ?
 
+#MikuNet Workstation
+[![mikunet](https://img.wahleak.top/img1/mikunet.svg)](https://img.wahleak.top)
+
 # Using OS
 [![My Skills](https://skillicons.dev/icons?i=windows,linux,arch,apple&theme=light)](https://skillicons.dev)
 
