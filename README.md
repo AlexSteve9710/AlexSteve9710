@@ -37,7 +37,7 @@ BiliBili:
 </table>
 
 # About Me
-Born in 2009.7.10 | MtF | Student | MikuFans |
+Born in 2009.7.10 | Trans | Student | MikuFans |
 
 
 # MikuNet Workstation
